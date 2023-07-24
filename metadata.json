@@ -2,15 +2,15 @@
     "KPlugin": {
         "Authors": [
             {
-                "Email": "richrd.lewis@gmail.com",
-                "Name": "Richard Lewis"
+                "Email": "app.suport@cronotech.us",
+                "Name": "Andrew Hatton"
             }
         ],
         "Dependencies": [],
         "Description": "Adds shortcuts to move all windows to a specific screen",
         "Icon": "preferences-system-windows-script-test",
         "Id": "moveallwindowstoscreen",
-        "License": "GPL",
+        "License": "GPLv3",
         "Name": "Move All Windows to Screen",
         "ServiceTypes": [
             "KWin/Script"
